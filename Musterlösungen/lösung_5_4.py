@@ -4,13 +4,14 @@ import numpy as np
 # Generiere fiktive Temperaturdaten für eine Woche
 tage = np.arange(1, 8)
 temperaturen = np.random.randint(10, 30, size=7)
+print(temperaturen)
 
 # Berechne den Durchschnitt
 durchschnittstemperatur = np.mean(temperaturen)
 
 # Erstelle das Liniendiagramm
 plt.plot(tage, temperaturen, marker='o', label='Temperatur')
-plt.axhline(y=durchschnittstemperatur, color='r', linestyle='--', label='Durchschnittstemperatur')
+plt.axhline(y=durchschnittstemperatur, color='r', linestyle='--', label='Durchschnitt')
 
 # Beschriftung und Titel hinzufügen
 plt.xlabel('Tag')
