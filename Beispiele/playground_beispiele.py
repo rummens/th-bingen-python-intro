@@ -11,7 +11,7 @@ for i in range(1, 5):
     print(i)
 
 # Wir definieren zwei Variablen (integer um genau zu sein)
-a = 2
+a = 3
 b = 10
 
 # Man könnte es auch so schreiben um den Typ der Variabel zu markieren:
