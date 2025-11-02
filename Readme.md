@@ -7,6 +7,10 @@ Aufgaben finden Sie unter [Aufgaben](/Aufgaben).
 
 Eine Möglichkeit die Aufgaben zu lösen, welche nur eine Option darstellt und nicht als "die eine" Lösung verstanden werden sollte, finden Sie unter: [Musterlösungen](/Musterlösungen)
 
+## Recordings
+Im Winter 2025 wurde der Python Einführungskurs  noch einmal im Schnelldurchlauf durchgeführt und aufgezeichnet:
+- [Teil 1](https://youtu.be/DIufQZdGWCk)
+
 ## Relevante Links
 ### Allgemein
 - https://learnxinyminutes.com/docs/python/
