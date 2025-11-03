@@ -51,4 +51,4 @@ def get_weather_by_city(city):
 
 
 # Beispiel
-get_weather_by_city("Berlin")
+get_weather_by_city("Mainz")
