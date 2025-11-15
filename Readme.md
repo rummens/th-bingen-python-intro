@@ -8,8 +8,17 @@ Aufgaben finden Sie unter [Aufgaben](/Aufgaben).
 Eine Möglichkeit die Aufgaben zu lösen, welche nur eine Option darstellt und nicht als "die eine" Lösung verstanden werden sollte, finden Sie unter: [Musterlösungen](/Musterlösungen)
 
 ## Recordings
-Im Winter 2025 wurde der Python Einführungskurs  noch einmal im Schnelldurchlauf durchgeführt und aufgezeichnet:
+Im Winter 2025 wurde der Python Einführungskurs noch einmal im Schnelldurchlauf durchgeführt und aufgezeichnet:
 - [Teil 1](https://youtu.be/DIufQZdGWCk)
+    - Variablen, Listen, Bedingungen, Schleifen
+- [Teil 2](https://youtu.be/qDvMKWIxN90)
+    - Aufgaben / Wiederholung, Funktionen 
+- [Teil 3](https://youtu.be/eJrxLhveMnI)
+    - Aufgaben / Wiederholung, NumPy
+- [Teil 4](https://youtu.be/yMg9-CbiZ1o)
+    - Aufgaben / Wiederholung, Matplotlib, Umgang mit Dateien, SciPy, Anriss Aufgaben SCOM TH-Bingen
+- [Teil 5](https://youtu.be/qna5ju0WgLc)
+    - Nullstellenberechnung Aufgaben SCOM TH-Bingen
 
 ## Relevante Links
 ### Allgemein
